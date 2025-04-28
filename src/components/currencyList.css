@@ -1,0 +1,15 @@
+.converter__currency-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #E8E7E9;
+    border-radius: 10px;
+}
+
+.converter__currency-item {
+    display: none;
+}
+
+.converter__currency-item_chosen {
+    display: block;
+}
